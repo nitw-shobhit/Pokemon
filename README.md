@@ -1,6 +1,7 @@
-1) Main Class
+* Main Class
 Run PokeJoined.java.
 Enter space separated string of names using the console.
+
 -------------------------------------------------------
-2) Unit Tests
+* Unit Tests
 Run PokeJoinedTest.java.
